@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Template-Nes-Inject.t
+lib/Template/Nes/Inject.pm
